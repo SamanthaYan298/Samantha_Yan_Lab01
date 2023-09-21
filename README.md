@@ -1,5 +1,4 @@
-# Heading 1: Lab01;
+# Lab01
 
-## Heading 2: Plugins;
-
-## Heading 2: Live Server;
+## Heading 2: Live Server
+ *To run file: ctrl + shift + p
